@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <link rel="stylesheet" href="styles.css">
+        <title>
+           Diet And Workout Plan
+        </title>
+    </head>
+    <body>
+        <!---diet section starts--->
+        
+        <section class="diet" id="diet">
+            <h1 class="heading"> Diet Plan For Weight Loss{3 VEG+3 NON-VEG+1 DETOX PLAN INCLUDED}</h1>
+            <hr>
+            <ul class="controls">
+                <input type="checkbox">
+
+                 <h2>DAY-2 DIET PLAN {Veg}</h2>
+                 
+                    <img src="" alt="">
+                    <li class="buttons">
+                    <h2>As soon as u wake up :-</h2>
+                    <h2>2 glasses of warm water+10 almonds+3 walnuts(soaked)</h2>
+                    <h3>Additional:-Multivitamins/prescribed ones</h3>
+                </li>
+                
+                    <img src="" alt="">
+                    <li class="buttons">
+                    <h2>Breakfast :-</h2>
+                    <h2>Fruit Smoothie</h2>
+                 </li>
+                 
+                    <img src="" alt="">
+                    <li class="buttons">
+                    <h2> Mid morning :-</h2>
+                    <h2>Seasonal Fruits(300mg bowl)+1 spoon of mixed seeds</h2>
+                 </li>
+                 
+                    <img src="" alt="">
+                    <li class="buttons">
+                    <h2>Lunch :-</h2>
+                    <h2>Mexican ribe bowl with veggies in it + curd(100mg)</h2>
+                 </li>
+                 
+                    <img src="" alt="">
+                    <li class="buttons">
+                    <h2>Evening snacks :-</h2>
+                    <h2>Black coffee/green tea+small bowl of bhel</h2>
+                 </li>
+                 
+                    <img src="" alt="">
+                    <li class="buttons">
+                    <h2>Dinner :-</h2>
+                    <h2>Vegetable soup/salad bowl</h2>
+                 </li>
+                 
+                    <img src="" alt="">
+                    <li class="buttons">
+                    <h2>Before bed drink :-</h2>
+                    <h2>Fennel seeds water</h2>
+                 </li>
+
+                    <img src="" alt="">
+                    <li class="buttons">
+                    <h2>Additionals :-</h2>
+                    <h2>For sugar cravings:2 Deseeded-dates</h2>
+                    </li>
+                   <hr>
+                  
