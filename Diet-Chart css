@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://images.pexels.com/photos/1640773/pexels-photo-1640773.jpeg");
+    
+    
+    padding: 2px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+
+
+}   
+
