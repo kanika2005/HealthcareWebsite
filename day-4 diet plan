@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <link rel="stylesheet" href="styles.css">
+        <title>
+           Diet And Workout Plan
+        </title>
+    </head>
+    <body>
+        <!---diet section starts--->
+        
+        <section class="diet" id="diet">
+            <h1 class="heading"> Diet Plan For Weight Loss{3 VEG+3 NON-VEG+1 DETOX PLAN INCLUDED}</h1>
+            <hr>
+            <ul class="controls">
+               <input type="checkbox">
+               <h2>DAY-4 DIET PLAN {Non-Veg}</h2>
+                 
+                    <img src="" alt="">
+                    <li class="buttons">
+                    <h2>As soon as u wake up :-</h2>
+                    <h2>2 glasses of warm water+10 almonds+3 walnuts(soaked)</h2>
+                    <h3>Additional:Multivitamins/prescribed ones</h3>
+                </li>
+                
+                    <img src="" alt="">
+                    <li class="buttons">
+                    <h2>Breakfast :-</h2>
+                    <h2>4 Boiled eggs(2 whole & 2 Egg whites)</h2>
+                 </li>
+                 
+                    <img src="" alt="">
+                    <li class="buttons">
+                    <h2> Mid morning :-</h2>
+                    <h2>Any vegetable juice</h2>
+                 </li>
+                 
+                    <img src="" alt="">
+                    <li class="buttons">
+                    <h2>Lunch :-</h2>
+                    <h2>Mexican rice bowl{Rice+chicken steak+veggies}</h2>
+                 </li>
+                
+                    <img src="" alt="">
+                    <li class="buttons">
+                    <h2>Evening snacks :-</h2>
+                    <h2>  Small bowl of popcorn/foxnuts</h2>
+                 </li>
+                 
+                    <img src="" alt="">
+                    <li class="buttons">
+                    <h2>Dinner :-</h2>
+                    <h2>Boiled fish/chicken breast</h2>
+                 </li>
+                 
+                    <img src="" alt="">
+                    <li class="buttons">
+                    <h2>Before bed drink :-</h2>
+                    <h2>Cinnamon water</h2>
+                 </li>
+                 <img src="" alt="">
+                    <li class="buttons">
+                    <h2>Additionals :-</h2>
+                    <h2>For sugar cravings:2 Deseeded-dates</h2>
+                    </li>
+                 <hr>
