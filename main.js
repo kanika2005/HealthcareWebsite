@@ -9,12 +9,11 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     });
   
-    // Form Submission Alert
-    const contactForm = document.querySelector('.contact-form');
-    contactForm.addEventListener('submit', function (e) {
+    // Form Submission (Dummy)
+    document.querySelector('.contact-form').addEventListener('submit', function (e) {
       e.preventDefault();
-      alert('Thank you for your message! We will get back to you shortly.');
-      contactForm.reset();
+      alert('Thank you for contacting us!');
+      this.reset();
     });
   });
   
