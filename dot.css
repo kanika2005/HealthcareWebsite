@@ -1,162 +1,80 @@
-/* General Styles */
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Global Styles */
 body {
-    font-family: 'Helvetica Neue', Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f7f9fc;
-    color: #333;
-  }
-  
-  .container {
-    width: 80%;
-    margin: 0 auto;
-    padding: 20px;
-  }
-  
-  /* Header Styles */
-  .header {
-    background-color: #2c3e50;
-    padding: 20px 0;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }
-  
-  .header .container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  
-  .header .logo {
-    color: #ecf0f1;
-    text-decoration: none;
-    font-size: 24px;
-    font-weight: bold;
-  }
-  
-  .navbar {
-    list-style: none;
-  }
-  
-  .navbar-list {
-    display: flex;
-    gap: 20px;
-  }
-  
-  .navbar-link {
-    color: #ecf0f1;
-    text-decoration: none;
-    font-size: 16px;
-    transition: color 0.3s ease;
-  }
-  
-  .navbar-link:hover {
-    color: #1abc9c;
-  }
-  
-  /* Services Section Styles */
-  .services-section {
-    background-color: #ffffff;
-    padding: 40px 20px;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    margin-top: 20px;
-    border-top: 3px solid #3498db;
-  }
-  
-  .services-section h2 {
-    font-size: 32px;
-    margin-bottom: 20px;
-    color: #2980b9;
-    border-bottom: 2px solid #3498db;
-    display: inline-block;
-    padding-bottom: 10px;
-  }
-  
-  .services-grid {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: space-around;
-  }
-  
-  .service-card {
-    background-color: #ecf0f1;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    padding: 20px;
-    width: 300px;
-    text-align: center;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-  
-  .service-card:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  }
-  
-  .service-icon {
-    font-size: 40px;
-    margin-bottom: 15px;
-  }
-  
-  .service-card:nth-child(1) .service-icon {
-    color: #e74c3c;
-  }
-  
-  .service-card:nth-child(2) .service-icon {
-    color: #3498db;
-  }
-  
-  .service-card:nth-child(3) .service-icon {
-    color: #2ecc71;
-  }
-  
-  .service-card:nth-child(4) .service-icon {
-    color: #f39c12;
-  }
-  
-  .service-card:nth-child(5) .service-icon {
-    color: #9b59b6;
-  }
-  
-  .service-card:nth-child(6) .service-icon {
-    color: #e67e22;
-  }
-  
-  .service-card h3 {
-    font-size: 24px;
-    color: #34495e;
-    margin-bottom: 10px;
-  }
-  
-  .service-card p {
-    color: #7f8c8d;
-    line-height: 1.6;
-  }
-  
-  /* Footer Styles */
-  .footer {
-    background-color: #2c3e50;
-    color: #ecf0f1;
-    text-align: center;
-    padding: 20px 0;
-    margin-top: 40px;
-    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
-  }
-  
-  .footer .social-media {
-    margin-top: 10px;
-  }
-  
-  .footer .social-icon {
-    color: #ecf0f1;
-    text-decoration: none;
-    margin: 0 10px;
-    font-size: 18px;
-    transition: color 0.3s ease;
-  }
-  
-  .footer .social-icon:hover {
-    color: #1abc9c;
-  }
+  font-family: 'Manrope', sans-serif;
+  background-color: #f8f9fa;
+  color: #495057;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+/* Header */
+.header {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.header .logo {
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-decoration: none;
+  display: flex;
+  align-items: center; /* Align icon and text vertically */
+}
+
+.header .logo i {
+  margin-right: 5px; /* Add space between icon and text */
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.navbar-list {
+  list-style: none;
+}
+
+.navbar-link {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 500;
+  margin: 0 10px;
+  transition: color 0.3s ease;
+}
+
+.navbar-link:hover {
+  color: #cce6ff;
+}
+
+/* Privacy Policy Section */
+.privacy-policy-section {
+  padding: 50px 0;
+}
+
+.privacy-content {
+  font-size: 1.1rem;
+}
+
+.footer {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
   
