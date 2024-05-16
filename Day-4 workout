@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <link rel="stylesheet" href="workout.css">
+        <title>
+           Diet And Workout Plan
+        </title>
+    </head>
+    <body>
+        <!---Workout section starts--->
+        
+        <section class="workout" id="Workout">
+            <h1 class="heading"> Workout plan{PUSH DAY}</h1>
+            <hr>
+            <ul class="controls">
+               <input type="checkbox">
+               <h2>DAY-1 WORKOUT PLAN</h2>
+                
+                   
+                    <h2>Bench Press: 3 sets x 6 reps
+                        ✅</h2> 
+                    
+                    <h2>Overhead Press: 3 sets x 8 reps
+                        ✅</h2>
+                    
+                    
+                    <h2>Incline Dumbbell Press: 3 sets x 10 reps✅</h2>
+                   
+                    <h2>Dumbbell Lateral Raise: 3 sets x 12 reps
+                        ✅</h2>
+                    
+                    <h2>Dumbbell Chest Flyes: 2 sets x 12 reps
+                        ✅</h2>
+                    
+                    <h2>Barbell Lying Triceps Extension: 3 sets x 15 reps✅</h2>
+</li>
