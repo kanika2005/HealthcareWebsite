@@ -1,0 +1,17 @@
+body{
+    
+    background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F01%2F32%2F92%2F51%2F360_F_132925146_5N9d5FgLBTkB6LBWY0Gnoq1O8uqywY5s.jpg&tbnid=CfFeWmSwZWFXeM&vet=12ahUKEwim2puivfaFAxVQe2wGHavhClgQMygaegUIARCMAQ..i&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Dwallpaper%2Bgym&docid=7-lNOc37FEN6aM&w=480&h=360&q=Workout%20background%20images%20hd%204k&ved=2ahUKEwim2puivfaFAxVQe2wGHavhClgQMygaegUIARCMAQ");
+    padding: 2px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+
+    text-decoration-color: whitesmoke;
+    
+
+
+}   
+

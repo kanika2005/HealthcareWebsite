@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <link rel="stylesheet" href="workout.css">
+        <title>
+           Diet And Workout Plan
+        </title>
+    </head>
+    <body>
+        <!---Workout section starts--->
+        
+        <section class="workout" id="Workout">
+            <h1 class="heading"> Workout plan{PULL-DAY FOLLOWED BY CARDIO }</h1>
+            <hr>
+            <ul class="controls">
+               <input type="checkbox">
+               <h2>DAY-1 WORKOUT PLAN</h2>
+                
+                   
+                    <h2>Deadlift: 3 sets x 5 reps✅</h2> 
+                    
+                    <h2>Barbell Row:3 sets x 8 reps
+                        ✅</h2>
+                    
+                    
+                    <h2>Lat Pulldown: 3 sets x 10 reps
+                        ✅</h2>
+                   
+                    <h2>Dumbbell Row: 2 sets x 10 reps
+                        ✅</h2>
+                    
+                    <h2>Face Pull: 2 sets x 12 reps
+                        ✅</h2>
+                    
+                    <h2>Barbell Curl: 2 sets x 10 reps✅</h2>
+                    
+                    <h2>Preacher Curl: 2 sets x 15 reps✅</h2>
+
+                   
+                    
+                    <h2>Plank full:max.hold{2 sets}✅</h2>
+                   
+                    <h2>Jack knife:25 reps✅</h2>
+                    
+                    <h2>Jumping jacks:20 reps{5 sets}✅</h2>
+                  
+                    <h2>Wall supported high knees:30 reps{fast 3 sets}✅</h2>
+                  
+                    <h2>Spot running:15 secs fast,39 secs average speed{3 sets each}✅</h2>
+                    
+                </li>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <link rel="stylesheet" href="workout.css">
+        <title>
+           Diet And Workout Plan
+        </title>
+    </head>
+    <body>
+        <!---Workout section starts--->
+        
+        <section class="workout" id="Workout">
+            <h1 class="heading"> Workout plan{CARDIO DAY}</h1>
+            <hr>
+            <ul class="controls">
+               <input type="checkbox">
+               <h2>DAY-1 WORKOUT PLAN</h2>
+                
+                    
+                    
+                    <h2>Stairs:2 rounds,stepping:30{2 sets each}✅</h2> 
+                    
+                    <h2>Full crunches with help:30 reps,Leg raise:20reps{2sets}✅</h2>
+                    
+                    
+                    <h2>Side ankle touch:20 reps;pull push:25 reps{2 sets each}✅</h2>
+                    
+                    <h2>Reverse crunch:20 reps;flutter kick:25 reps{2 sets each}✅</h2>
+                    
+                    <h2>Plank:30 secs{2 sets both full and elbow/max.hold}✅</h2>
+                 
+                    <h2>Full plank toe touch:20 reps per side✅</h2>
+                    
+                    <h2>Standing one arm toe touch:20 reps per side✅</h2>
+                    
+                    <h2>Plank full:max.hold{2 sets}✅</h2>
+                    
+                    <h2>Jack knife:25 reps✅</h2>
+                    
+                    <h2>Deep squats:15 reps✅</h2>
+                    
+                    <h2>Wall supported high knees:30 reps{fast 3 sets}✅</h2>
+                    
+                    <h2>Spot running:15 secs fast;39 secs average speed{3 sets}✅</h2>
+                    
+                </li>
