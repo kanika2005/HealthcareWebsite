@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+      <link rel="stylesheet" href="workout.css">
+        <title>
+           Diet And Workout Plan
+        </title>
+    </head>
+    <body>
+        <!---Workout section starts--->
+        
+        <section class="workout" id="Workout">
+            <h1 class="heading"> Workout plan{CARDIO DAY}</h1>
+            <hr>
+            <ul class="controls">
+               <input type="checkbox">
+               <h2>DAY-5 WORKOUT PLAN</h2>
+                
+                   
+                    <h2>Jogging:2 min on spot✅</h2> 
+                    
+                    <h2>Running:3 min without break✅</h2>
+                    
+                    
+                    <h2>V leg raise:15 reps,V pull push:15 reps{2 sets}ewr✅</h2>
+                   
+                    <h2>Cross leg raise:15 reps,cross leg pull push:30 reps{2 sets}✅</h2>
+                    
+                    <h2>Full circles:15reps,reverse crunch:15reps{2 sets}✅</h2>
+                    
+                    <h2>Mountain climber:30reps✅</h2>
+                    
+                    <h2>Full burpees without jump:30reps✅</h2>
+                    
+                    <h2>Standing side crunch 40 per side{2 sets}✅</h2>
+                   
+                    <h2>Cross mountain:25reps,plank jack:15reps{2 sets each}✅</h2>
+                    
+                    <h2>Side dumbbell:50reps✅</h2>
+                  
+                    <h2>Front dumbbell:50reps✅</h2>
+                  
+                    <h2>Back dumbbell:50reps✅</h2>
+                    <h2>Jumping Jacks:100reps✅</h2>
+                    <h2>High knees:30reps✅</h2>
+                    <h2>Plank:max. hold✅</h2>
+                    
+                </li>
