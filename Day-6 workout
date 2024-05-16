@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+      <link rel="stylesheet" href="workout.css">
+        <title>
+           Diet And Workout Plan
+        </title>
+    </head>
+    <body>
+        <!---Workout section starts--->
+        
+        <section class="workout" id="Workout">
+            <h1 class="heading"> Workout plan{LEG DAY}</h1>
+            <hr>
+            <ul class="controls">
+               <input type="checkbox">
+               <h2>DAY-6 WORKOUT PLAN</h2>
+                
+                   
+                    <h2>Barbell Squat:4 sets, 6-8, 6-8, 8-10, 8-10 reps (Lighten the weight after your first 2 sets.)
+                        ✅</h2> 
+                    
+                    <h2>Leg Press:4 sets, 8-10, 8-10, 10-12, 10-12 reps (Alternate 2 different foot positions.)
+                        ✅</h2>
+                    
+                    
+                    <h2>Dumbbell Walking Lunge:3 sets, 10, 12, 14 steps per side
+                        ✅</h2>
+                   
+                    <h2>Leg Extensions:3 sets, 10 reps (Do a single dropset on each set.)
+                        ✅</h2>
+                    
+                    <h2>Romanian Deadlift:3 sets, 8, 10, 12 reps
+                        
+                        ✅</h2>
+                    
+                    <h2>Lying Leg Curls:3 sets, 8, 10, 12 reps
+                        ✅</h2>
+                    
+                    <h2>Standing Calf Raises:4 sets, 12, 12, 20, 20 reps✅</h2>
+                    
+                    
+                    
+                </li>
